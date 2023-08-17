@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_action_home"/>
+    <item
+        android:id="@+id/myprofile"
+        android:title="Profile"
+        android:icon="@drawable/ic_action_profile"/>
+    <item
+        android:id="@+id/add_posts"
+        android:title="Add Post"
+        android:icon="@drawable/ic_add_posts"/>
+    <item
+        android:id="@+id/friends"
+        android:title="Friends"
+        android:icon="@drawable/ic_action_friends"/>
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/ic_action_chat"/>
+</menu>

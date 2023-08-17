@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable/edit.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable/ic_action_chat.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable/ic_action_friends.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable/ic_action_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable/ic_action_profile.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable/ic_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/drawable/ic_user.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/font/roboto.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/activity_comment.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/activity_registration.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/activity_settings.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/activity_user_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/activity_view_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/all_comments.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/all_posts.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/all_users.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/dialog_update_name.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/dialog_update_pswd.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/fragment_add_post.xml" value="0.165625" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/fragment_all_users.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/fragment_chat.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/fragment_friends.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/fragment_my_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/fragment_my_posts.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/fragment_my_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/fragment_users.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/my_posts.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/layout/row_users.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/menu/top_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/Sainath/AndroidStudioProjects/Socialley/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

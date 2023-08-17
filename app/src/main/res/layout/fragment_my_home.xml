@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F1EDED"
+    tools:context=".MyHomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button style="@style/Widget.AppCompat.Button.Colored"
+            android:id="@+id/my_posts_btn"
+            android:layout_width="58pt"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:text="My Posts"/>
+
+        <Button style="@style/Widget.AppCompat.Button.Colored"
+            android:id="@+id/friends_posts_btn"
+            android:layout_width="58pt"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:text="Friend Posts"/>
+
+        <Button style="@style/Widget.AppCompat.Button.Colored"
+            android:id="@+id/all_posts_btn"
+            android:layout_width="58pt"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:text="All Posts"/>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_marginTop="20pt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerposts"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
